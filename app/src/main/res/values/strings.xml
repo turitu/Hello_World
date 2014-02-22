@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">Hello World</string>
+
+    <string name="hello_world">Hello World</string>
+
+    <string name="action_settings">Settings</string>
+
+    <string name="planet_name_label">Planet name: </string>
+    <string name="planet_mass_label">Planet mass: </string>
+    <string name="planet_gravity_label">Planet gravity: </string>
+    <string name="planet_colonies_label">Planet colonies: </string>
+    <string name="planet_population_label">Planet population: </string>
+    <string name="planet_military_label">Planet military: </string>
+    <string name="planet_bases_label">Planet bases: </string>
+    <string name="planet_forcefield_label">Planet forcefield: </string>
+
+    <string name="menu_add_planet">Add a new planet</string>
+    <string name="menu_config_planet">Configure planet</string>
+    <string name="menu_travel_planet">Travel to planet</string>
+    <string name="menu_attack_planet">Attack on planet</string>
+    <string name="menu_home_planet">Show home planet</string>
+
+    <string name="button_name_colonies">Add colonies</string>
+    <string name="button_name_colonists">Add colonsts</string>
+    <string name="button_name_bases">Add bases</string>
+    <string name="button_name_military">Add military</string>
+    <string name="button_name_ffon">Force field on</string>
+    <string name="button_name_ffoff">Force field off</string>
+
+</resources>
